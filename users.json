@@ -1,0 +1,14 @@
+{
+    "sid@gmail.com": {
+        "name": "Sid",
+        "phone": "1234567890",
+        "dob": "2000-01-11",
+        "password": "123456"
+    },
+    "rush@gmail.com": {
+        "name": "rush ",
+        "phone": "1234567890",
+        "dob": "2000-01-18",
+        "password": "123456"
+    }
+}
